@@ -15,7 +15,7 @@ There are 2 subsections
 [link](https://github.com/roeljpatricio/Portfolio/blob/main/Python/Expectation%20Maximization/EM%20jupyter.ipynb) to Jupyter Notebook  
 [link](https://github.com/roeljpatricio/Portfolio/tree/main/Python/Expectation%20Maximization) to repository  
 Collaborative Filters Via Gaussian Mixtures are explored. The EM algorithm is developed and a matrix with missing entries is filled  
-The EM.zip file contains the directory files. It can be downloaded and 'EM Jupyter.ipynb' opened for full functionality.  
+The EM.zip file contains the directory files. It can be downloaded [here](https://github.com/roeljpatricio/Portfolio/raw/main/Python/Expectation%20Maximization/em.zip)and 'EM Jupyter.ipynb' opened for full functionality.  
 
 ### High Dimensional Representation
 [link](https://github.com/roeljpatricio/Portfolio/blob/main/Python/High%20Dimensional%20Representation/High%20Dimensional%20Representation.pdf) to file  
